@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Snips-calculette/README.md at master · dbddv01/Snips-calculette</title>
+  <title>Snips-calculette/setup.sh at master · dbddv01/Snips-calculette</title>
     <meta name="description" content="Contribute to dbddv01/Snips-calculette development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/39023861?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="dbddv01/Snips-calculette" /><meta property="og:url" content="https://github.com/dbddv01/Snips-calculette" /><meta property="og:description" content="Contribute to dbddv01/Snips-calculette development by creating an account on GitHub." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzEzMzYzODc5OjY2ZWQ1MGRlM2U5MTdmM2E5MWZiZmVlZDE4YjY1YTAwODlmNjgzMWNhMDcxYTc0ZDFlNmQ4YmRmNzhmZjEyZTE=--0a8e44bc2b22e6b6466be0a9f6b3714e14562a65">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzEzMzYzODc5OmMxNTAzODNjMGNkMDZmZmE2NzczMzIyMjcxZGZmOGM4ZmQyMzliMmM5ZGVkZWIyYzllMThjOWIyMTFmMTE4ODc=--0fa1ff20b1379c7223b51ce403c7e19109ce3e46">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DDBC:74C6:1D71DF:34A1A4:5B8DEF6E" data-pjax-transient>
+  <meta name="request-id" content="DDBC:74C6:1D6A72:349AA0:5B8DEF62" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DDBC:74C6:1D71DF:34A1A4:5B8DEF6E" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="42952879" /><meta name="octolytics-actor-login" content="mathsleg" /><meta name="octolytics-actor-hash" content="d3d57d360ae661762231f5613927152374e893416c003b053292782d70e5ca5c" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DDBC:74C6:1D6A72:349AA0:5B8DEF62" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="42952879" /><meta name="octolytics-actor-login" content="mathsleg" /><meta name="octolytics-actor-hash" content="d3d57d360ae661762231f5613927152374e893416c003b053292782d70e5ca5c" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,7 +70,7 @@
     <meta name="user-login" content="mathsleg">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MjYzNjVjY2E4ODIxYTJhNGFiN2EyZDI3NTU0MThhNDZlZmVkZTE1NjE3NzU1ZjhkNzgzNWVlMWE1OGY5NGU3OXx7InJlbW90ZV9hZGRyZXNzIjoiOTAuMzEuMzIuMjQiLCJyZXF1ZXN0X2lkIjoiRERCQzo3NEM2OjFENzFERjozNEExQTQ6NUI4REVGNkUiLCJ0aW1lc3RhbXAiOjE1MzYwMjg1NDMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="NGE4YTVlZDdjOTVhYTZjZTU3MmYyODIyYTQyNTA3MDEwMTNkOWQ2NGZjNGQ3MzZkMmJjYjQ5ZTE4NWRmMTUwMnx7InJlbW90ZV9hZGRyZXNzIjoiOTAuMzEuMzIuMjQiLCJyZXF1ZXN0X2lkIjoiRERCQzo3NEM2OjFENkE3MjozNDlBQTA6NUI4REVGNjIiLCJ0aW1lc3RhbXAiOjE1MzYwMjg1MjAsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_DOCKERFILE_CI_CTA,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_RETARGETING">
 
@@ -86,7 +86,7 @@
   <meta name="octolytics-dimension-user_id" content="39023861" /><meta name="octolytics-dimension-user_login" content="dbddv01" /><meta name="octolytics-dimension-repository_id" content="132724201" /><meta name="octolytics-dimension-repository_nwo" content="dbddv01/Snips-calculette" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="132724201" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dbddv01/Snips-calculette" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/dbddv01/Snips-calculette/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/dbddv01/Snips-calculette/blob/master/setup.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -154,7 +154,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=lNdzzFvoj7dghL/BpJmp2TJjNZki7XVZP7O2Q0IzjFqrfJUtGCZ1mfTv1VvFqsYS96eGHyFLlZBaMdLe2O1+lA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=UsEAKT96LI2hbPItpARZ4hJAFlosN5gnRdEaNPX6MwFtaubIfLTWozUHmLfFNzYp14Sl3C+ReO4gU36pbyTBzw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -304,7 +304,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="g1i0S4XeDlpRCIVH13o8rh9iAO6Shfg0x6M2JfqWOHbZcIb+CPBORZUa005g521IvIb7QsckQopbml0ZY3Ik2g==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N9TmF0vrHT5LcdAu/gmYYSsWOOoAqcostY5X1C5HoQVt/NSixsVdIY9jhidJlMmHiPLDRlUIcJIptzzot6O9qQ==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -317,7 +317,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="e0hOOkSDpMHnmBrsayJjL/B1OR1WMe8jN6ijy58AYbwhYHyPya3k3iOKTOXcvzLJU5HCsQOQVZ2rkcj3BuR9EA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JxiUuN7n/x1x05St80GrWlOrp8N62Glq3frTn1lZjWh9MKYNU8m/ArXBwqRE3Pq88E9cby9509RBw7ijwL2RxA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -355,7 +355,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zZHYP2LXkavuF5P4lvOAKcuo0fpWq3Xkfe/0tqQGu/YCHAqFhUWhm3xAWUkNTGhV+8EBS+4LHNtOQBUnJ6SO4g==" />      <input type="hidden" name="repository_id" id="repository_id" value="132724201" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HiQDVmOjznMaKjQNyPgnyXRlHvz5LDoUMKQN9qPnNS/RqdHshDH+Q4h9/rxTR8+1RAzOTUGMUysDC+xnIEUAOw==" />      <input type="hidden" name="repository_id" id="repository_id" value="132724201" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/dbddv01/Snips-calculette/subscription"
@@ -435,7 +435,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/dbddv01/Snips-calculette/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7xzftMEjv8zHRVoibd3RkxHDZWbywlIQgR//uYJDDe9S+tVUu3q/7vgKTZdBMbb2LfDjyrv4S1qwpC8+4xFOqA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/dbddv01/Snips-calculette/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JDKXODnlAyTI0rPVja/Ypr1WfBkP1qeDNYZ5EjTOJfCZ1J3YQ7wDBvedpGChQ7/DgWX6tUbsvskEPamVVZxmtw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -450,7 +450,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/dbddv01/Snips-calculette/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aNBHi3Fomk16TP8bSYPAxSE0pztI9cDRoInIosLOOWrz72NbHLmd8JRcfizUUwzocrbSOyuVQqVlUpgEhsoQKg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/dbddv01/Snips-calculette/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HusZL7NxnnP38nuyi683vcNNwtcTcDvxB5paR3f1DImF1D3/3qCZzhni+oUWf/uQkM+313AQuYXCQQrhM/ElyQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -469,7 +469,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/dbddv01/Snips-calculette/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="exG0TArcXpHbLSiw/m0/WaYD3cSqcKmKrJdFyz9oz6Z4FpTov+6ox8O18Egg3o6LEdtlqFlioK82V8TrwP7kdA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/dbddv01/Snips-calculette/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3WxdvqeUqwMRJPSktVvqGxwN7S0W3CFYP26GQpEbeufea30aEqZdVQm8LFxr6FvJq9VVQeXOKH2lrgdibo1RNQ==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -551,9 +551,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dbddv01/Snips-calculette/blob/d4dfc66cc32a0a886d89836c4184977d0c26f4df/README.md">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/dbddv01/Snips-calculette/blob/d4dfc66cc32a0a886d89836c4184977d0c26f4df/setup.sh">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:8fe156cda393c67947b73851fe1d0b84 -->
+  <!-- blob contrib key: blob_contributors:v21:11e4181b58a7fe504d6b4e728bc4e354 -->
 
   
 
@@ -597,7 +597,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/dbddv01/Snips-calculette/blob/master/README.md"
+               href="/dbddv01/Snips-calculette/blob/master/setup.sh"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -636,12 +636,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/dbddv01/Snips-calculette"><span>Snips-calculette</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/dbddv01/Snips-calculette"><span>Snips-calculette</span></a></span></span><span class="separator">/</span><strong class="final-path">setup.sh</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/dbddv01/Snips-calculette/contributors/master/README.md" class="commit-tease commit-loader">
+  <include-fragment src="/dbddv01/Snips-calculette/contributors/master/setup.sh" class="commit-tease commit-loader">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -658,19 +658,19 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/dbddv01/Snips-calculette/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/dbddv01/Snips-calculette/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/dbddv01/Snips-calculette/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/dbddv01/Snips-calculette/raw/master/setup.sh">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/dbddv01/Snips-calculette/blame/master/setup.sh">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/dbddv01/Snips-calculette/commits/master/setup.sh">History</a>
     </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/dbddv01/Snips-calculette/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OFRs6XsPDs9cHWPDFX5HrBcZicPtckBC32jSHXcLgKP450P19dSxEybE7aFwul6f96e9yQ2IMTCumCbi8UbwlA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/dbddv01/Snips-calculette/edit/master/setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RdxyCbsucdywhRppBTjGeOml5f5qlLbFqyOiqWwj37wTNDJOFxfJyBsZxT6iK7TQdqlgBKMwMVVkuvQsCLP3CA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/dbddv01/Snips-calculette/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/vN3hPIn8WzvZm8zbRQy8lD2H91m2aa7BQokuI6ElygWq8NDyg/W64/9wG2bFCnM7efeXwcR9CRPV9e7MdME4A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/dbddv01/Snips-calculette/delete/master/setup.sh" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7kEWTW0Fl7R+1AftkQiKFINhA7p7Xxs2eMzKAN77b+UJiWDPSCVW/iCd/YO+smGDed5HSAi13RBC4UYPI/UNBg==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -678,17 +678,119 @@
 </form>  </div>
 
   <div class="file-info">
-      3 lines (2 sloc)
+      21 lines (13 sloc)
       <span class="file-info-divider"></span>
-    165 Bytes
+    256 Bytes
   </div>
 </div>
 
     
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-snips-calculette" class="anchor" aria-hidden="true" href="#snips-calculette"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Snips-calculette</h1>
-<p>code inclus dans le skill publié sur le skill store. Calculette rudimentaire qui additionne, soustrait, multiplie, divise deux nombres donnés.</p>
-</article>
+
+  <div itemprop="text" class="blob-wrapper data type-shell">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>/usr/bin/env bash -e</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">VENV=venv</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-d</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$VENV</span><span class="pl-pds">&quot;</span></span> ]</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">    PYTHON=<span class="pl-s"><span class="pl-pds">`</span>which python2<span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-f</span> <span class="pl-smi">$PYTHON</span> ]</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>could not find python<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    virtualenv -p <span class="pl-smi">$PYTHON</span> <span class="pl-smi">$VENV</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">.</span> <span class="pl-smi">$VENV</span>/bin/activate</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">pip install -r requirements.txt</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/dbddv01/Snips-calculette/blame/d4dfc66cc32a0a886d89836c4184977d0c26f4df/setup.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/dbddv01/Snips-calculette/issues/new">Open new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
   </div>
@@ -716,7 +818,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.24990s from unicorn-7d77ccc9df-gtmx2">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.24555s from unicorn-667c4d97b7-nh79q">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
